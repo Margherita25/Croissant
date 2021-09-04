@@ -1,0 +1,25 @@
+body {
+    background: bisque;
+}
+
+h1, p {
+    text-align: center;
+    color: saddlebrown;
+    margin: 30px 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: saddlebrown;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom:  30px;
+}
